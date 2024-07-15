@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40;
+}
+
+.body{
+    height: 100vh;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    height: 100%;
+}
+.navbar-bar{
+    height: 100%;
+}
+
